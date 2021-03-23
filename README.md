@@ -26,5 +26,7 @@ As mentioned the images type required for this project we do not have work with 
 
 bg_remove.ipyb: file removes the background form the image (We have to enter image path) and save it as output_path.
 
+### Background removed by OpenCV
 
+<img width="209" alt="Screenshot 2021-03-23 at 3 29 31 PM" src="https://user-images.githubusercontent.com/62153950/112128683-ab744a80-8bec-11eb-81bd-3c6dcbc01d01.png"> <img width="351" alt="Screenshot 2021-03-23 at 3 28 15 PM" src="https://user-images.githubusercontent.com/62153950/112128958-efffe600-8bec-11eb-9d97-1d90e54eb4cb.png"> <img width="357" alt="Screenshot 2021-03-23 at 3 26 18 PM" src="https://user-images.githubusercontent.com/62153950/112129009-f7bf8a80-8bec-11eb-9b90-6c1a99aedc18.png"><img width="362" alt="Screenshot 2021-03-23 at 3 27 36 PM" src="https://user-images.githubusercontent.com/62153950/112129041-0017c580-8bed-11eb-993f-9f5c47d615a2.png">
 
